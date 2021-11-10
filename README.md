@@ -11,16 +11,17 @@ The course is given at a level that is also compatible with graduate students.
 
 <br>
 
-| Lectures | Topics                                                               |
-|----------|----------------------------------------------------------------------|
-| 1        | Introduction - Using machine learning in the world of cyber security |
-| 2        | Introduction to learning systems                                     |
-| 3+4      | Introduction to learning systems 2                                   |
-| 5        | Anomaly Detection                                                    |
-| 6        | Malicious recognizing with deep-learning                             |
-| 7        | Data analysis, data-collection and features-vector creation          |
-| 8        | Use of learning systems For encrypted information analysis           |
-| 9        | Class competition and presentation Achievements                      |
-| 10       | Ensemble methods in cyber Security                                   |
-| 11       | DLP                                                                  |
-| 12       | Final Project                                                        |
+| Lecture | Topics                                                                                               |                                            |
+|---------|------------------------------------------------------------------------------------------------------|--------------------------------------------|
+| 1       | Introduction. Python + nltk                                                                          |                                            |
+| 2       |     POS (part of   speech) tagging + Chunking + NER (name entity recognition)                        |                                            |
+| 3       | N-grams and text generation. Constituency parsing – CFG and PCFG. CYK / Viterbi algorithms.          |                                            |
+| 4       | NumPy and tensor-flow. Linear regression + gradient decent + regularization                          |                                            |
+| 5       | Logistic regression + Stochastic-GD and Mini-batch-GD + cross validation + entropy and cross entropy |                                            |
+| 6       | Multi-layer perceptron, forward-prop and back-propagation                                            | (+activation layers) + batch normalization |
+| 7       | Convolutional networks: CV layers, pooling, dropout. Momentum SGD + RMSProp + Adam                   |                                            |
+| 8       | Recurrent networks: LSTM, GRU. MT, POS tagging, text generation + attention.                         |                                            |
+| 9       | Auto-encoders, VAE, embedding and Word2vec                                                           |                                            |
+| 10      | Deep reinforcement learning – deep Q-learning                                                        |                                            |
+| 11      | Deep reinforcement learning – Policy based and actor critic                                          |                                            |
+| 12      |     Transformers and   BERT + Generative adversarial network (GAN)                                   |                                            |
