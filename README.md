@@ -1,7 +1,12 @@
 # NLP-and-Deep-Learning
 ---
-
-**Goals:** <br>
+This repository includes two researched projects created for a course in Deep-learning.
+* "Gender Classification" presents a Logistic Regression & MLP models written with tensorflow v1
+* "Rock Paper Scissors" presents a CNN & Hyperparameter from Keras
+<br>
+You can find more explanations regarding the projects in each folder.
+<br>
+**Course Goals:** <br>
 Understanding the deep learning architecture, including working with images and series. <br>
 A regression model in which a number is predicted and a classification model in which a class to which the item belongs is predicted. <br>
 Basic concepts in natural language processing. <br>
